@@ -1,0 +1,51 @@
+TMutifSearch
+v7
+r0
+t320880107.143586
+cCheck dependencies
+cCompileC build/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/main.o /Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CFDC74F00000000000000EE
+t1291700047
+s238
+
+N/Users/yunzhang/Documents/homework/591/MutifSearch/build/Debug/MutifSearch
+t2
+s0
+
+N/Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/MutifSearch.LinkFileList
+c000000004D70066B0000000000000080
+t1299187307
+s128
+
+N/Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp
+c000000004D70066000000000000020BB
+t1299187296
+s8379
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320880107#320880107#0(0"0(0#1#0"8622128992#0"0#
+
+CCompileC build/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/main.o /Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s320880107.142141
+e320880107.143530
+r0
+xCompileC
+xbuild/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/main.o
+x/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp320880107#320880107#0(953"/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp: In function 'int TotalDistance(char*, char**, int, int, int)':/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp:318: error: 'INFTY' was not declared in this scope/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp: In function 'char* BruteForceMedianSearch(char**, int, int, int)':/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp:358: error: 'INFTY' was not declared in this scope/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp: In function 'int TotalDistance2(char*, char**, int, int, int)':/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp:428: error: 'INFTY' was not declared in this scope/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp: In function 'char* BranchAndBoundMedianSearch(char**, int, int, int)':/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp:468: error: 'INFTY' was not declared in this scope4(4@38"'INFTY' was not declared in this scope320880107#124#111#0(6@59"/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp320880096#318#0#318#0#34"'*' was not declared in this scope0(4@38"'INFTY' was not declared in this scope320880107#363#111#0(6@59"/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp320880096#358#0#358#0#34"'*' was not declared in this scope0(4@38"'INFTY' was not declared in this scope320880107#599#111#0(6@59"/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp320880096#428#0#428#0#34"'*' was not declared in this scope0(4@38"'INFTY' was not declared in this scope320880107#842#111#0(6@59"/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp320880096#468#0#468#0#34"'*' was not declared in this scope0(0#0#59"/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp8609364480#1495"    cd /Users/yunzhang/Documents/homework/591/MutifSearch    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/MutifSearch-generated-files.hmap -I/Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/MutifSearch-own-target-headers.hmap -I/Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/MutifSearch-all-target-headers.hmap -iquote /Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/MutifSearch-project-headers.hmap -F/Users/yunzhang/Documents/homework/591/MutifSearch/build/Debug -I/Users/yunzhang/Documents/homework/591/MutifSearch/build/Debug/include -I/Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/DerivedSources/x86_64 -I/Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/DerivedSources -c /Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp -o /Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/main.o1#
+
+CLd /Users/yunzhang/Documents/homework/591/MutifSearch/build/Debug/MutifSearch normal x86_64
+r0
+

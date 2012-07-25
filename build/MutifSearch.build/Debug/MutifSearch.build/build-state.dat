@@ -1,0 +1,117 @@
+TMutifSearch
+v7
+r0
+t320915384.328949
+cCheck dependencies
+cCompileC build/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/main.o "/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/Debug/MutifSearch" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CFDC74F00000000000000EE
+t1291700047
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004AC59C82000000000000178E
+t1254464642
+s6030
+
+N/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/Debug/MutifSearch
+t1299222584
+s21600
+
+N/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/MutifSearch.LinkFileList
+c000000004D708F4C0000000000000093
+t1299222348
+s147
+
+N/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/main.o
+t1299222581
+s95596
+
+N/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/main.cpp
+c000000004D709080000000000000292F
+t1299222656
+s10543
+i<iostream>
+i"stdio.h"
+i<fstream>
+i"time.h"
+
+N/Users/yunzhang/Documents/homework/591/MutifSearch/build/Debug/MutifSearch
+t1299221378
+s21560
+
+N/Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/MutifSearch.LinkFileList
+c000000004D70066B0000000000000080
+t1299187307
+s128
+
+N/Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/main.o
+t1299221342
+s95084
+
+N/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp
+c000000004D708B810000000000002894
+t1299221377
+s10388
+i<iostream>
+i"stdio.h"
+i<fstream>
+i"time.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320915384#320915384#0(0"0(0#1#0"8613074656#0"0#
+
+CCompileC build/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/main.o "/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s320915384.304044
+e320915384.305171
+r1
+xCompileC
+xbuild/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/main.o
+x/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/main.cpp320915384#320915384#0(0"0(0#0#78"/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/main.cpp8612285856#1726"    cd "/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/MutifSearch-generated-files.hmap" "-I/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/MutifSearch-own-target-headers.hmap" "-I/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/MutifSearch-all-target-headers.hmap" -iquote "/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/MutifSearch-project-headers.hmap" "-F/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/Debug" "-I/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/Debug/include" "-I/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/DerivedSources/x86_64" "-I/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/DerivedSources" -c "/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/main.cpp" -o "/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/main.o"0#
+
+CCompileC build/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/main.o /Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+s320914178.810225
+e320914178.816224
+r1
+xCompileC
+xbuild/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/main.o
+x/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp320914178#320914178#0(186"/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp: In function 'int main()':/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp:574: warning: unused variable 'ntimes'1(22@24"Unused variable 'ntimes'320914178#87#99#0(6@59"/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp320914177#574#0#574#0#19"unused variable '*'0(0#0#59"/Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp7809643567100341248#1495"    cd /Users/yunzhang/Documents/homework/591/MutifSearch    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/MutifSearch-generated-files.hmap -I/Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/MutifSearch-own-target-headers.hmap -I/Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/MutifSearch-all-target-headers.hmap -iquote /Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/MutifSearch-project-headers.hmap -F/Users/yunzhang/Documents/homework/591/MutifSearch/build/Debug -I/Users/yunzhang/Documents/homework/591/MutifSearch/build/Debug/include -I/Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/DerivedSources/x86_64 -I/Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/DerivedSources -c /Users/yunzhang/Documents/homework/591/MutifSearch/main.cpp -o /Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/main.o0#
+
+CLd "/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/Debug/MutifSearch" normal x86_64
+s320915384.305237
+e320915384.328896
+r1
+xLd
+x/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/Debug/MutifSearch
+xnormal
+xx86_64
+lSLF07#2@98"Link /Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/Debug/MutifSearch320915384#320915384#0(0"0(0#0#0"8605549792#679"    cd "/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/Debug" "-F/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/Debug" -filelist "/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/MutifSearch.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/yunzhang/Documents/homework/591/591 lab1 yun zhang/MutifSearch/build/Debug/MutifSearch"0#
+
+CLd /Users/yunzhang/Documents/homework/591/MutifSearch/build/Debug/MutifSearch normal x86_64
+s320914178.816299
+e320914178.840091
+r1
+xLd
+x/Users/yunzhang/Documents/homework/591/MutifSearch/build/Debug/MutifSearch
+xnormal
+xx86_64
+lSLF07#2@79"Link /Users/yunzhang/Documents/homework/591/MutifSearch/build/Debug/MutifSearch320914178#320914178#0(0"0(0#0#0"8602931936#574"    cd /Users/yunzhang/Documents/homework/591/MutifSearch    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/yunzhang/Documents/homework/591/MutifSearch/build/Debug -F/Users/yunzhang/Documents/homework/591/MutifSearch/build/Debug -filelist /Users/yunzhang/Documents/homework/591/MutifSearch/build/MutifSearch.build/Debug/MutifSearch.build/Objects-normal/x86_64/MutifSearch.LinkFileList -mmacosx-version-min=10.6 -o /Users/yunzhang/Documents/homework/591/MutifSearch/build/Debug/MutifSearch0#
+

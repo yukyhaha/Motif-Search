@@ -1,0 +1,143 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2195965013203C2300395286 /* MutifSearch */;
+		activeTarget = 8DD76F620486A84900D96B5E /* MutifSearch */;
+		codeSenseManager = 2195965613203C4200395286 /* Code sense */;
+		executables = (
+			2195965013203C2300395286 /* MutifSearch */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320915058;
+			PBXWorkspaceStateSaveDate = 320915058;
+		};
+		perUserProjectItems = {
+			2166870D1320E58F00645554 /* PBXTextBookmark */ = 2166870D1320E58F00645554 /* PBXTextBookmark */;
+			2166870E1320E58F00645554 /* PBXTextBookmark */ = 2166870E1320E58F00645554 /* PBXTextBookmark */;
+			2166870F1320E58F00645554 /* PBXTextBookmark */ = 2166870F1320E58F00645554 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2195965513203C4200395286 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 9191}}";
+			sepNavSelRange = "{8373, 0}";
+			sepNavVisRange = "{7726, 331}";
+			sepNavWindowFrame = "{{51, 51}, {970, 727}}";
+		};
+	};
+	2166870D1320E58F00645554 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6859E8B029090EE04C91782 /* MutifSearch.1 */;
+		name = "MutifSearch.1: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 795;
+		vrLoc = 0;
+	};
+	2166870E1320E58F00645554 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 605";
+		rLen = 0;
+		rLoc = 8373;
+		rType = 0;
+		vrLen = 215;
+		vrLoc = 7726;
+	};
+	2166870F1320E58F00645554 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 08FB7796FE84155DC02AAC07 /* main.cpp */;
+		name = "main.cpp: 608";
+		rLen = 0;
+		rLoc = 8373;
+		rType = 0;
+		vrLen = 331;
+		vrLoc = 7726;
+	};
+	2195965013203C2300395286 /* MutifSearch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MutifSearch;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	2195965513203C4200395286 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	2195965613203C4200395286 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DD76F620486A84900D96B5E /* MutifSearch */ = {
+		activeExec = 0;
+		executables = (
+			2195965013203C2300395286 /* MutifSearch */,
+		);
+	};
+	C6859E8B029090EE04C91782 /* MutifSearch.1 */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {635, 962}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 795}";
+		};
+	};
+}
